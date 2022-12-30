@@ -8,7 +8,7 @@ import os
 import openai
 
 def generateTheCaption(keywords, tone):
-    openai.api_key = "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"
+    openai.api_key = "Your-OpenAI-API-Key"
 
     start_sequence = "\nAI:"
     restart_sequence = "\nHuman: "
