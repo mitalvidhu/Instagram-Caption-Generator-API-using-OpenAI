@@ -1,4 +1,7 @@
-# Instagram-Caption-Generator-API-using-OpenAI
+# Instagram Caption Generator API using OpenAI
+
+I have used the OpenAI GPT-3 model in this project for caption generation. I have created an API to access the OpenAI API to generate these captions.
+
 
 1. Install the OpenAI library on the system and import the library.
 2. You will need an OpenAI account with an API key to use the AI model.
@@ -13,4 +16,4 @@
 11. The "stop" parameter is the stopwords parameter. This removes the mentioned strings from the generated captions.
 12. The hashtagsAndTone() function recieves the number of keywords, the keywords, and the tone for the caption to be generated.
 13. To test the program, run the hashtagsAndTone() function and enter the keywords and the tone. Store the returned values in separate variables (keywords and tone) and pass them to the generateTheCaption() function. 
-14. Viola! Now you can get AI generated instagram captions by simply providing keywords for the keywords you need.
+14. Voila! Now you can get AI generated instagram captions by simply providing keywords for the keywords you need.
