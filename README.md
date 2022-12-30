@@ -13,4 +13,4 @@
 11. The "stop" parameter is the stopwords parameter. This removes the mentioned strings from the generated captions.
 12. The hashtagsAndTone() function recieves the number of keywords, the keywords, and the tone for the caption to be generated.
 13. To test the program, run the hashtagsAndTone() function and enter the keywords and the tone. Store the returned values in separate variables (keywords and tone) and pass them to the generateTheCaption() function. 
-14. Viola! Now you can get AI generated instagram captions by simply providing keywords for the    
+14. Viola! Now you can get AI generated instagram captions by simply providing keywords for the keywords you need.
